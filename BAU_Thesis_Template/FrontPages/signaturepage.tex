@@ -1,0 +1,85 @@
+\documentclass[12pt, oneside]{book}
+
+\usepackage{import}
+\usepackage{../Packages/baupreamble}
+
+
+\begin{document}
+%%=================================================
+%%++++++++++++ Start writing here +++++++++++++++++
+%%=================================================
+\begin{titlepage}
+	\begin{center}
+
+\begin{minipage}{\textwidth}
+	\centering
+		\onehalfspacing 
+		\Large \textbf{\MakeUppercase{
+		\ThesisTitle}}
+\end{minipage}		
+		
+
+\vspace{2cm}	
+
+
+\begin{minipage}{\textwidth}
+	\centering
+	\large
+	\textbf{A Thesis} \\ [1.5cm]
+	\textbf{Submitted by} \\ [0.5cm]
+	\bgroup
+	\def\arraystretch{1.5}
+		\textbf{\ThesisAuthor}\\ 
+		\textbf{Student ID:~\StudentID}\\ 
+		\textbf{Registration:~\StudentReg}\\ 
+		\textbf{Session:~\StudentSession}
+	\egroup
+\end{minipage}		
+
+		
+\vspace{1.0cm}
+
+\textbf{\textit{\large Approved as to style and contents by}}\\
+
+\vspace{2.5cm}
+
+
+\bgroup
+\def\arraystretch{1.25}
+\begin{tabularx}{\textwidth}{@{}c@{\extracolsep{\fill}}c@{}}
+\cmidrule(){1-1} \cmidrule(){2-2} 
+\textbf{\large \ThesisSupervisor} 	& \textbf{\large \ThesisCoSupervisor} \\
+\textbf{\large Supervisor} 			& \textbf{\large Co-Supervisor} 
+\end{tabularx}
+\egroup
+
+\vspace{2cm}
+
+\bgroup
+\def\arraystretch{1.25}
+\begin{tabular}{@{}c@{}}
+	\toprule
+	\textbf{\large \DeptHead} \\ 
+	\textbf{\large Chairman, Examination Committee} \\
+	\textbf{\large and} \\
+	\textbf{\large \DeptName} \\
+	\textbf{\large Bangladesh Agricultural University}
+\end{tabular}
+\egroup
+
+\vfill
+
+\begin{minipage}{\textwidth}
+	\centering
+		\large \textbf{\MakeUppercase{ 
+		\SubMonth~\SubYear}}
+\end{minipage}	
+	
+\end{center}
+
+\end{titlepage}
+
+
+%%=================================================
+%%=================================================
+\end{document}

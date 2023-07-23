@@ -1,0 +1,36 @@
+\documentclass[12pt, oneside]{book}
+
+\usepackage{import}
+\usepackage{../Packages/baupreamble}
+
+
+\begin{document}
+\chapter{Review of Literature}
+%%=================================================
+%%++++++++++++ Start writing here +++++++++++++++++
+%%=================================================
+
+\section{My Review Section}
+\lipsum*[3-4]
+
+\begin{figure}
+\centering
+\captionsetup{justification=centering}
+\tikz\node[circle,draw, minimum size=6cm,
+text=white,
+path picture={
+	\node at (path picture bounding box.center){
+	\includegraphics[width=6.5cm]{figures/Einstein}
+	};
+}]{I'm watching you!};
+\caption{This is a funny picture. Einstein is watching you!}
+\end{figure}
+
+
+\subsection{Some review sub-section}
+\lipsum*[1-2]
+
+
+%%=================================================
+%%=================================================
+\end{document}

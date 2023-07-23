@@ -1,0 +1,9 @@
+\begin{plate*}
+[]
+\centering
+\includegraphics[width=0.5\textwidth]{figures/plateR1}
+\caption{Bone growth. Light micrograph of actively growing cells in the growth plate of a long bone}
+\label{plateR1}
+\end{plate*}
+\efloatseparator
+ 

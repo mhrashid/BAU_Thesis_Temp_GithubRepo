@@ -1,0 +1,218 @@
+
+@article{Devi2012,
+	title={Influence of sulphur and boron fertilization on yield, quality, nutrient uptake and economics of soybean (\textit{Glycine max}) under upland conditions},
+	author={Devi, Konthoujam Nandini and Singh, Laikangbam Nongdren Khomba and Singh, Maibam Sumarjit and Singh, Soibam Basanta and Singh, Keisham Khamba},
+	journal={Journal of Agricultural Science},
+	volume={4},
+	number={4},
+	pages={1},
+	year={2012},
+	doi={10.5539/jas.v4n4p1}
+}
+
+@article{Fan2022,
+	title={Intake of soy, soy isoflavones and soy protein and risk of cancer incidence and mortality},
+	author={Fan, Yahui and Wang, Mingxu and Li, Zhaofang and Jiang, Hong and Shi, Jia and Shi, Xin and Liu, Sijiao and Zhao, Jinping and Kong, Liyun and Zhang, Wei and others},
+	journal={Frontiers in Nutrition},
+	volume={9},
+	pages={847421},
+	year={2022},
+	doi={10.3389/fnut.2022.847421}
+}
+
+@article{Moradi2020,
+	title={The effects of isolated soy protein, isolated soy isoflavones and soy protein containing isoflavones on serum lipids in postmenopausal women: {A} systematic review and meta-analysis},
+	author={Moradi, Maedeh and Daneshzad, Elnaz and Azadbakht, Leila},
+	journal={Critical Reviews in Food Science and Nutrition},
+	volume={60},
+	number={20},
+	pages={3414--3428},
+	year={2020},
+	doi={10.1080/10408398.2019.1689097}
+}
+
+@incollection{Rani2022,
+	title={Soybean breeding},
+	author={Rani, Anita and Kumar, Vineet},
+	editor={Yadava, D. K. and Dikshit, H. K. and Mishra, G. P. and Tripathi, S.},
+	booktitle={Fundamentals of Field Crop Breeding},
+	pages={907--944},
+	year={2022},
+	doi={10.1007/978-981-16-9257-4\_17}
+}
+
+@article{Karlsson2021,
+	title={Halting European Union soybean feed imports favours ruminants over pigs and poultry},
+	author={Karlsson, Johan O and Parodi, Alejandro and Van Zanten, Hannah HE and Hansson, Per-Anders and R{\"o}{\"o}s, Elin},
+	journal={Nature Food},
+	volume={2},
+	number={1},
+	pages={38--46},
+	year={2021},
+	doi={10.1038/s43016-020-00203-7}
+}
+
+@article{Liu2021,
+	title={Effects of replacing fish meal with soybean meal on growth performance, feed utilization and physiological status of juvenile redlip mullet \textit{Liza haematocheila}},
+	author={Liu, Tao and Han, Tao and Wang, Jiteng and Liu, Teng and Bian, Pan and Wang, Yuebin and Cai, Xuejun},
+	journal={Aquaculture Reports},
+	volume={20},
+	pages={100756},
+	year={2021},
+	doi={10.1016/j.aqrep.2021.100756}
+}
+
+@Book{BBS2022,
+	author = {{BBS}},
+	title  = {{Yearbook of Agricultural Statistics 2021}},
+	year   = {2022},
+	publisher = {Bangladesh Bureau of Statistics, Statistics Division, Ministry of Planning, Government of the People's Republic of Bangladesh, Dhaka, Bangladesh}
+}
+
+@Book{Gomez1984,
+	author    = {Gomez, Kwanchai A and Gomez, Arturo A},
+	publisher = {John wiley \& sons},
+	title     = {{Statistical Procedures for Agricultural Research}},
+	year      = {1984},
+}
+
+@Book{UNDP1988,
+	author = {{UNDP}},
+	title  = {{Land Resources Appraisal of Bangladesh for Agricultural Development Report 2: Agro-ecological Region, of Bangladesh}},
+	year   = {1988},
+	publisher = {United Nation Development Program and Food and Agriculture Organization, Rome, Italy}
+}
+
+@Book{BARC2010,
+	author = {{BARC}},
+	title  = {{Fertilizer Recommendation Guide (FRG)}},
+	year   = {2010},
+	publisher = {Bangladesh Agricultural Research Council, Farmgate, Dhaka, Bangladesh}
+}
+
+@Manual{R2022,
+	title = {{R: A Language and Environment for Statistical Computing}},
+	author = {{R Core Team}},
+	organization = {R Foundation for Statistical Computing},
+	address = {Vienna, Austria},
+	year = {2022},
+	url = {https://www.R-project.org/},
+}
+
+@article{Martins2015,
+	title={Photosynthesis and leaf area of \textit{Brachiaria brizantha} in response to phosphorus and zinc nutrition},
+	author={Martins, Luc{\'\i}ola EC and Monteiro, Francisco A and Pedreira, Bruno C},
+	journal={Journal of Plant Nutrition},
+	volume={38},
+	number={5},
+	pages={754--767},
+	year={2015},
+	doi={10.1080/01904167.2014.939758}
+}
+
+@article{Nandi2020,
+	title={Effect of {Zn and B} on the Growth and Nutrient Uptake in Groundnut},
+	author={Nandi, Ramprosad and Reja, Hasim and Chatterjee, Nitin and Ghosh Bag, Animesh and Chand Hazra, Gora},
+	journal={Current Journal of Applied Science and Technology},
+	volume={39},
+	number={1},
+	pages={1--10},
+	year={2020},
+	doi={10.9734/cjast/2020/v39i130475}
+}
+
+@article{Ullah2020,
+	title={Zinc application in combination with zinc solubilizing Enterobacter sp. {MN17} improved productivity, profitability, zinc efficiency, and quality of desi chickpea},
+	author={Ullah, Aman and Farooq, Muhammad and Nadeem, Faisal and Rehman, Abdul and Hussain, Mubshar and Nawaz, Ahmad and Naveed, Muhammad},
+	journal={Journal of Soil Science and Plant Nutrition},
+	volume={20},
+	pages={2133--2144},
+	year={2020},
+	doi={10.1007/s42729-020-00281-3}
+}
+
+@article{Rehman2020,
+	title={Agronomic biofortification of zinc in Pakistan: Status, benefits, and constraints},
+	author={Rehman, Abdul and Farooq, Muhammad and Ullah, Aman and Nadeem, Faisal and Im, Seon Young and Park, Sang Koo and Lee, Dong-Jin},
+	journal={Frontiers in sustainable food systems},
+	volume={4},
+	pages={591722},
+	year={2020},
+	doi={10.3389/fsufs.2020.591722}
+}
+
+@article{Manzeke2017,
+	title={Zinc fertilization increases productivity and grain nutritional quality of cowpea (\textit{Vigna unguiculata} {[L.] Walp.}) under integrated soil fertility management},
+	author={Manzeke, Muneta G and Mtambanengwe, Florence and Nezomba, Hatirarami and Watts, Michael J and Broadley, Martin R and Mapfumo, Paul},
+	journal={Field Crops Research},
+	volume={213},
+	pages={231--244},
+	year={2017},
+	doi={10.1016/j.fcr.2017.08.010}
+}
+
+@article{Haider2018,
+	title = {Soil application of zinc improves the growth, yield and grain zinc biofortification of mungbean},
+	author = {Haider, M. U. and Hussain, M. and Farooq, M. and Nawaz, A.},
+	journal = {Soil and Environment},
+	volume = {37},
+	number = {2},
+	pages = {123--128},
+	year={2018}
+}
+
+@article{Manzeke2020,
+	title={Nitrogen effect on zinc biofortification of maize and cowpea in Zimbabwean smallholder farms},
+	author={Manzeke, Muneta G and Mtambanengwe, Florence and Watts, Michael J and Broadley, Martin R and R. Murray, Lark and Mapfumo, Paul},
+	journal={Agronomy Journal},
+	volume={112},
+	number={3},
+	pages={2256--2274},
+	year={2020},
+	doi={10.1002/agj2.20175}
+}
+
+@article{Li2015,
+	title={{Zn distribution and bioavailability in whole grain and grain fractions of winter wheat as affected by applications of soil N and foliar Zn combined with N or P}},
+	author={Li, Meng and Wang, Shaoxia and Tian, Xiaohong and Zhao, Jihong and Li, Hongyun and Guo, Chunhui and Chen, Yanlong and Zhao, Aiqing},
+	journal={Journal of Cereal Science},
+	volume={61},
+	pages={26--32},
+	year={2015},
+	doi={10.1016/j.jcs.2014.09.009}
+}
+
+@article{Schulte2021,
+	title={Metabolic control of nitrogen fixation in rhizobium-legume symbioses},
+	author={Schulte, Carolin C M and Borah, Khushboo and Wheatley, Rachel M and Terpolilli, Jason J and Saalbach, Gerhard and Crang, Nick and de Groot, Daan H and Ratcliffe, R George and Kruger, Nicholas J and Papachristodoulou, Antonis and others},
+	journal={Science Advances},
+	volume={7},
+	number={31},
+	pages={eabh2433},
+	year={2021},
+	doi={10.1126/sciadv.abh2433}
+}
+
+@article{Goyal2021,
+	title={Rhizobial--host interactions and symbiotic nitrogen fixation in legume crops toward agriculture sustainability},
+	author={Goyal, Ravinder K and Mattoo, Autar K and Schmidt, Maria Augusta},
+	journal={Frontiers in Microbiology},
+	volume={12},
+	pages={669404},
+	year={2021},
+	doi={10.3389/fmicb.2021.669404}
+}
+
+@article{Kazmierczak2020,
+	title={Legume nodule senescence: a coordinated death mechanism between bacteria and plant cells},
+	author={Kazmierczak, Th{\'e}ophile and Yang, Li and Boncompagni, Eric and Meilhoc, Eliane and Frugier, Florian and Frendo, Pierre and Bruand, Claude and Gruber, V{\'e}ronique and Brouquisse, Renaud},
+	journal={Advances in Botanical Research},
+	volume={94},
+	pages={181--212},
+	year={2020},
+	doi={10.1016/bs.abr.2019.09.013}
+}
+
+@article{Wang2023,
+	title={{A transcription factor of the NAC family regulates nitrate-induced legume nodule senescence}},
+	author={Wang, Longlong and Tian, Tao a

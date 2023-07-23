@@ -1,0 +1,158 @@
+
+\ProvidesPackage{baupreamble}
+\usepackage[a4paper, top=1.2in, bottom=1.2in, left=1.3in, right=1.0in]{geometry}
+\usepackage[utf8]{inputenc}
+%\usepackage{babel,csquotes,xpatch}
+%\usepackage{tgbonum}
+%\usepackage{bookman}
+\usepackage{mathpazo}
+\usepackage[T1]{fontenc}
+\usepackage{lipsum}
+\usepackage{tikz}
+%%============================================ %%
+%% Define running head%% and page numbering 
+%%=========================================== %%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{} % remove left part from header
+\fancyhead[R]{\slshape\nouppercase{\leftmark}} % Make the chapter name in title case
+\renewcommand\chaptermark[1]{\markboth{\textbf{#1}}{}} % remove chapter number from header
+\renewcommand{\headrulewidth}{0pt} % remove horizontal rule below header
+
+
+\usepackage{amsmath}
+\usepackage{siunitx,gensymb,marvosym}
+\usepackage{enumitem}
+\usepackage{graphicx, float, framed}
+\usepackage{upgreek} % for upright greek symbols, eg. $\upmu$, $\upalpha$
+
+%=====================Nice Fraction =====================================
+\usepackage{nicefrac}
+\newcommand\bsfrac[2]{%
+	\scalebox{-1}[1]{\nicefrac{\scalebox{-1}[1]{$#1$}}{\scalebox{-1}[1]{$#2$}}}%
+}
+%================== TABLE PACKAGES ======================================
+\usepackage{booktabs}
+\usepackage{tabularx}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+\usepackage{array} % for 'm' position in table
+\usepackage{multirow}
+
+\usepackage[para,online,flushleft]{threeparttable} % for table
+\usepackage{subcaption} % for table
+
+\usepackage{chemmacros} % for chemical formula
+
+%==============caption setup ========================
+\usepackage{caption}
+\captionsetup{
+	labelsep=period, 
+	singlelinecheck = false, 
+	justification=raggedright, 
+	format=hang, 
+	labelfont={color=black,bf}, 
+	font={color=black}
+}
+\usepackage{newfloat}
+\DeclareFloatingEnvironment{plate}
+\DeclareFloatingEnvironment{Appendix}
+\renewcommand\theAppendix{\Roman{Appendix}}% https://latex.org/forum/viewtopic.php?t=7151
+%====================================================
+
+
+%======================================
+\definecolor{hypercolor}{HTML}{0000FF} % 002387; navy blue
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true, citecolor=hypercolor, linkcolor=black, urlcolor=hypercolor}
+\urlstyle{same}
+
+%=====*** Cutsomizing \ref{label} option==============
+\usepackage[nameinlink]{cleveref} % use 'noabbrev' for no abrreviation of labels https://tex.stackexchange.com/questions/406670/elsarticle-cross-reference-of-table-and-figure-in-blue-color
+\Crefname{figure}{Figure}{Figures} % for abbreviation
+\Crefname{plate}{Plate}{Plates} % for abbreviation
+\Crefname{Appendix}{Appendix}{Appendices} % for abbreviation
+%=====*** Cutsomizing color option==============
+\newcommand{\Mref}[3][hypercolor]{\hypersetup{linkcolor=#1}\Cref{#2}{#3}\hypersetup{linkcolor=black}}%<<https://tex.stackexchange.com/questions/243832/distinguishing-ref-and-cref-through-different-colors
+
+
+%======================================
+%\setlength{\bibhang}{22pt}% the adjust the hanging indent
+%%===================================================== %%
+\usepackage[backend=biber, 
+	style=apa,
+	%maxnames=2,
+	hyperref=true,
+	sortcites=true]{biblatex}
+\setlength{\bibhang}{22pt}% the adjust the hanging indent
+\setlength\bibitemsep{1.5\itemsep} % spacing between reference entries
+%%=============================================== %%
+%% Rdefine Figure environemnt%% DON'T MODIFY
+%%============================================== %%
+\newenvironment{Figure}
+{\par\medskip\noindent\minipage{\linewidth}}
+{\endminipage\par\medskip}
+% %=================================================
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+{\normalfont\Large\bfseries\centering}{\chaptertitlename\ \thechapter}{20pt}{\LARGE\uppercase}
+\titlespacing*{\chapter}{0pt}{0pt}{70pt}
+
+
+\setcounter{tocdepth}{3} % how depth the toc is added
+\setcounter{secnumdepth}{3} % numbering added up to subsubsection
+
+\renewcommand\contentsname{Table of Contents}
+
+
+%===== to remove dotted line after each entry of toc ======
+\makeatletter
+\renewcommand\@dotsep{1000}   % default value 4.5
+\makeatother
+%---------------------------------------------------------
+
+\usepackage{titletoc} % control table of contents
+\titlecontents{subsection}
+[1.5em] %
+{\smallskip}
+{\thecontentslabel\hspace{1.02em}}%\thecontentslabel
+{\hspace*{2.32em}}
+{\,\,\titlerule*[0.77pc]{}\contentspage}
+
+\titlecontents{subsubsection}
+[1.5em] % or 4.75
+{\smallskip}
+{\thecontentslabel\hspace{1.02em}}%\thecontentslabel
+{\hspace*{2.32em}}
+{\,\,\titlerule*[0.77pc]{}\contentspage}
+
+\usepackage{setspace} % for controlling line spacing
+
+\renewcommand\bibname{References}
+
+%%===================================================== %%
+\usepackage{etoolbox}
+\usepackage{ifthen}
+
+
+\newcommand{\MyDegree}[1]
+{
+	\ifthenelse{\equal{#1}{1}}{Master of Science}{}%
+	\ifthenelse{\equal{#1}{2}}{Doctor of Philosophy}{}%
+}
+
+
+\newcommand{\MyThesis}[1]
+{
+	\ifthenelse{\equal{#1}{1}}{MS}{}%
+	\ifthenelse{\equal{#1}{2}}{PhD}{}%
+}
+
+
+%%=============================================== %%
+
+\usepackage[english]{nomencl} % for making list of abbreviations
+\makenomenclature
+
+

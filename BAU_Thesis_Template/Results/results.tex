@@ -1,0 +1,52 @@
+\documentclass[12pt, oneside]{book}
+
+\usepackage{import}
+\usepackage{../Packages/baupreamble}
+
+
+\begin{document}
+\chapter{Results and Discussion}
+
+%%=================================================
+%%++++++++++++ Start writing here +++++++++++++++++
+%%=================================================
+
+\section{My first results}
+	This is a random paragraph with a figure (\Mref{figR1}). \lipsum*[3-4]
+	
+	\begin{figure}[]
+		\includegraphics[width=\textwidth]{figures/figR1.pdf}
+		\caption{In large projects, such as books, keeping parts of your document in several tex files makes the task of correcting errors and making further changes easier}
+		\label{figR1}
+	\end{figure}
+	
+	\subsection{Some results sub-section}
+	\lipsum*[1-2]
+	\subsubsection{A subsubsection}
+			\lipsum*[4]
+	\subsubsection{Another subsubsection}
+			\lipsum*[5]
+	
+	\subsection{Another results sub-section}
+	This is a paragraph with a table reference (\Mref{tableR1}~ and \Mref{tableA1}). \lipsum*[6]. \textcite{Moradi2020} stated that there are some interesting results which I will not disclose!
+	
+	\input{tables/tableR1}
+	
+\section{My Second results}
+
+This is a paragraph which contains a reference to a plate (\Mref{plateR1}~and \Mref{figA2}). \lipsum*[11-17]. Now I am going add some citations of previous works \parencite{Devi2012,Karlsson2021,BBS2022}.
+
+\begin{plate}[]
+\centering
+\includegraphics[width=0.5\textwidth]{figures/plateR1}
+\caption{Bone growth. Light micrograph of actively growing cells in the growth plate of a long bone}
+\label{plateR1}
+\end{plate}
+
+
+\lipsum*[2-4]
+
+
+%%=================================================
+%%=================================================	
+\end{document}

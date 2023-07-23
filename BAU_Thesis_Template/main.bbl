@@ -1,0 +1,1558 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Allito2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2d5afc75736384002ed4afee4359be7f}{%
+           family={Allito},
+           familyi={A\bibinitperiod},
+           given={Bayou\bibnamedelima Bunkura},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12dec1641c6c85b75a1374c725637e6f}{%
+           family={Ewusi-Mensah},
+           familyi={E\bibinithyphendelim M\bibinitperiod},
+           given={Nana},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d632ba9fcfb5171985be3862b4bd928}{%
+           family={Logah},
+           familyi={L\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{404a77c26622a309d0fe1deb1cfed59c}
+      \strng{fullhash}{710c1c65f855931ff780e72a753aeb77}
+      \strng{bibnamehash}{710c1c65f855931ff780e72a753aeb77}
+      \strng{authorbibnamehash}{710c1c65f855931ff780e72a753aeb77}
+      \strng{authornamehash}{404a77c26622a309d0fe1deb1cfed59c}
+      \strng{authorfullhash}{710c1c65f855931ff780e72a753aeb77}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{6}
+      \field{title}{{Legume-rhizobium strain specificity enhances nutrition and nitrogen fixation in faba bean (\textit{Vicia faba} L.)}}
+      \field{volume}{10}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{826}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy10060826
+      \endverb
+    \endentry
+    \entry{BARC2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64087ebac8234ef53aeca29160f8cd75}{%
+           family={{BARC}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bangladesh Agricultural Research Council, Farmgate, Dhaka, Bangladesh}%
+      }
+      \strng{namehash}{64087ebac8234ef53aeca29160f8cd75}
+      \strng{fullhash}{64087ebac8234ef53aeca29160f8cd75}
+      \strng{bibnamehash}{64087ebac8234ef53aeca29160f8cd75}
+      \strng{authorbibnamehash}{64087ebac8234ef53aeca29160f8cd75}
+      \strng{authornamehash}{64087ebac8234ef53aeca29160f8cd75}
+      \strng{authorfullhash}{64087ebac8234ef53aeca29160f8cd75}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Fertilizer Recommendation Guide (FRG)}}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{BBS2022}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e769ae9749a0077873f72febc3168c62}{%
+           family={{BBS}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Bangladesh Bureau of Statistics, Statistics Division, Ministry of Planning, Government of the People's Republic of Bangladesh, Dhaka, Bangladesh}%
+      }
+      \strng{namehash}{e769ae9749a0077873f72febc3168c62}
+      \strng{fullhash}{e769ae9749a0077873f72febc3168c62}
+      \strng{bibnamehash}{e769ae9749a0077873f72febc3168c62}
+      \strng{authorbibnamehash}{e769ae9749a0077873f72febc3168c62}
+      \strng{authornamehash}{e769ae9749a0077873f72febc3168c62}
+      \strng{authorfullhash}{e769ae9749a0077873f72febc3168c62}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Yearbook of Agricultural Statistics 2021}}
+      \field{year}{2022}
+    \endentry
+    \entry{Devi2012}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=232efa3be8a3ef30ddfb9da3af0a1e96}{%
+           family={Devi},
+           familyi={D\bibinitperiod},
+           given={Konthoujam\bibnamedelima Nandini},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbb0c0363a35969c4ca07c2a323d0070}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Laikangbam\bibnamedelimb Nongdren\bibnamedelima Khomba},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11d20b56d6c0f9201a413f98940ea455}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Maibam\bibnamedelima Sumarjit},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e3c0ec90caced6a368e3559c84e69c5}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Soibam\bibnamedelima Basanta},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3135de5d59e9a75c5c9aed769990d7d1}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Keisham\bibnamedelima Khamba},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e450ef66616aa7d6c59b2491fc44d54}
+      \strng{fullhash}{253b07abf20633d784edc2760b9cf0e0}
+      \strng{bibnamehash}{253b07abf20633d784edc2760b9cf0e0}
+      \strng{authorbibnamehash}{253b07abf20633d784edc2760b9cf0e0}
+      \strng{authornamehash}{2e450ef66616aa7d6c59b2491fc44d54}
+      \strng{authorfullhash}{253b07abf20633d784edc2760b9cf0e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Agricultural Science}
+      \field{number}{4}
+      \field{title}{Influence of sulphur and boron fertilization on yield, quality, nutrient uptake and economics of soybean (\textit{Glycine max}) under upland conditions}
+      \field{volume}{4}
+      \field{year}{2012}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5539/jas.v4n4p1
+      \endverb
+    \endentry
+    \entry{Fan2022}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=1,uniquepart=given,hash=e0b53220b82966b3aa6d2eb99b49a35c}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Yahui},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=678f6a6a70c73f077faa29ba8ce5fe57}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Mingxu},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=791cbedd8d76928e5e6da5a386b34a2b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhaofang},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=e0879b52aa4eccf0ea6c596bbbcefd95}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3ad53ff6e1cf0710b94c840cca17fceb}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=0284af02945e4deddaf5068e1dab7252}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=9ba4ac1bf355e763435ec671d41a5348}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Sijiao},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=25780dc68741c8a5c5228fc22fc87879}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jinping},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b96ef44da4e7f2a5399f3615cc45d8b}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Liyun},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2e2b6a58b8e3b46262fc56dfc72e935}
+      \strng{fullhash}{9faa9ce7b394833bf25139314dfa78a4}
+      \strng{bibnamehash}{9faa9ce7b394833bf25139314dfa78a4}
+      \strng{authorbibnamehash}{9faa9ce7b394833bf25139314dfa78a4}
+      \strng{authornamehash}{a2e2b6a58b8e3b46262fc56dfc72e935}
+      \strng{authorfullhash}{9faa9ce7b394833bf25139314dfa78a4}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Nutrition}
+      \field{title}{Intake of soy, soy isoflavones and soy protein and risk of cancer incidence and mortality}
+      \field{volume}{9}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{847421}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnut.2022.847421
+      \endverb
+    \endentry
+    \entry{Gomez1984}{book}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=dd7a6c57174ebe84b8aec18b4b1a5b1f}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Kwanchai\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=bb9e41835e85de5f28e14fcadd312a7f}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Arturo\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {John wiley \& sons}%
+      }
+      \strng{namehash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \strng{fullhash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \strng{bibnamehash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \strng{authorbibnamehash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \strng{authornamehash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \strng{authorfullhash}{a784ea0b56d0d79cb4606170c2f86d49}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Statistical Procedures for Agricultural Research}}
+      \field{year}{1984}
+      \true{nocite}
+    \endentry
+    \entry{Goyal2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3ac02720512b3c601a206b158614f035}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Ravinder\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce2d44b39daffde32720317fc0a8fa26}{%
+           family={Mattoo},
+           familyi={M\bibinitperiod},
+           given={Autar\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0474fed110645bec898415e59c65f44b}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Maria\bibnamedelima Augusta},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9dc94f9b015fc9f0f35c05389eb747ac}
+      \strng{fullhash}{46dd0fb6d157e814fb8e74f9f3a5ef8e}
+      \strng{bibnamehash}{46dd0fb6d157e814fb8e74f9f3a5ef8e}
+      \strng{authorbibnamehash}{46dd0fb6d157e814fb8e74f9f3a5ef8e}
+      \strng{authornamehash}{9dc94f9b015fc9f0f35c05389eb747ac}
+      \strng{authorfullhash}{46dd0fb6d157e814fb8e74f9f3a5ef8e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{Rhizobial--host interactions and symbiotic nitrogen fixation in legume crops toward agriculture sustainability}
+      \field{volume}{12}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{669404}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fmicb.2021.669404
+      \endverb
+    \endentry
+    \entry{Haider2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cd04b4468521d42f7f73465a930712bd}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi U.},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ad5b5574b5463284700ecef44cf5084}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f9c27e7ead01fe7ec75bebea373c2f1}{%
+           family={Farooq},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7585fc49000a223da23acf2889c19c5}{%
+           family={Nawaz},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ab74f1940b508ee73cbce6699d31db7}
+      \strng{fullhash}{e1312144601423c6703e44339f6b5530}
+      \strng{bibnamehash}{e1312144601423c6703e44339f6b5530}
+      \strng{authorbibnamehash}{e1312144601423c6703e44339f6b5530}
+      \strng{authornamehash}{3ab74f1940b508ee73cbce6699d31db7}
+      \strng{authorfullhash}{e1312144601423c6703e44339f6b5530}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil and Environment}
+      \field{number}{2}
+      \field{title}{Soil application of zinc improves the growth, yield and grain zinc biofortification of mungbean}
+      \field{volume}{37}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{123\bibrangedash 128}
+      \range{pages}{6}
+    \endentry
+    \entry{Karlsson2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=e245b1f6b110a914ec3ebf8e0208a6df}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Johan\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8e3a1805ab14b6a052c7b1ca6f49204}{%
+           family={Parodi},
+           familyi={P\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d60e00e44815663c7c722bf42ccd561}{%
+           family={Van\bibnamedelima Zanten},
+           familyi={V\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Hannah\bibnamedelima HE},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9dfd7cc6e793f9aa7bf5df6f64405e8}{%
+           family={Hansson},
+           familyi={H\bibinitperiod},
+           given={Per-Anders},
+           giveni={P\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84bc63cb0ac4fe0092721eca8d10a81c}{%
+           family={R{ö}{ö}s},
+           familyi={R\bibinitperiod},
+           given={Elin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7132b1573936905e4eba54e336aa4409}
+      \strng{fullhash}{42cc3bc136035d7ad1000dd545f250d6}
+      \strng{bibnamehash}{42cc3bc136035d7ad1000dd545f250d6}
+      \strng{authorbibnamehash}{42cc3bc136035d7ad1000dd545f250d6}
+      \strng{authornamehash}{7132b1573936905e4eba54e336aa4409}
+      \strng{authorfullhash}{42cc3bc136035d7ad1000dd545f250d6}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Food}
+      \field{number}{1}
+      \field{title}{Halting European Union soybean feed imports favours ruminants over pigs and poultry}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{38\bibrangedash 46}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s43016-020-00203-7
+      \endverb
+    \endentry
+    \entry{Kazmierczak2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=30b86d52c5725b59d66122d09801999c}{%
+           family={Kazmierczak},
+           familyi={K\bibinitperiod},
+           given={Th{é}ophile},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f8a6256a19361714c6f6a011671f17d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0f5b29349b73eac49e635c92bb1a1e3}{%
+           family={Boncompagni},
+           familyi={B\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=842b4640555181f94ada6b4237d3130e}{%
+           family={Meilhoc},
+           familyi={M\bibinitperiod},
+           given={Eliane},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cde7a1027e27f58a2cfcf83841b854e}{%
+           family={Frugier},
+           familyi={F\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5cfea3d7f3bb53253ef4fa3f9cbc5ef}{%
+           family={Frendo},
+           familyi={F\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b7bde7566463180f0ba1188ede8a324}{%
+           family={Bruand},
+           familyi={B\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7fd0664468d52efbe69aabc6409f947}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={V{é}ronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a045af20602bdac60cb99508d0b556b9}{%
+           family={Brouquisse},
+           familyi={B\bibinitperiod},
+           given={Renaud},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e7d3b4610b9f1946e876564d19ec32e}
+      \strng{fullhash}{027609db0e70f4b0cd4e286652ac769b}
+      \strng{bibnamehash}{027609db0e70f4b0cd4e286652ac769b}
+      \strng{authorbibnamehash}{027609db0e70f4b0cd4e286652ac769b}
+      \strng{authornamehash}{0e7d3b4610b9f1946e876564d19ec32e}
+      \strng{authorfullhash}{027609db0e70f4b0cd4e286652ac769b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Botanical Research}
+      \field{title}{Legume nodule senescence: a coordinated death mechanism between bacteria and plant cells}
+      \field{volume}{94}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{181\bibrangedash 212}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1016/bs.abr.2019.09.013
+      \endverb
+    \endentry
+    \entry{Li2015}{article}{}
+      \name{author}{8}{}{%
+        {{un=1,uniquepart=given,hash=122748fbd1766f07a1685dde181113ca}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Meng},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=e9db6d0597d53970687aed693995f5f3}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shaoxia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93710a165d2dd5051fde99c288acb0b9}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Xiaohong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96d61eab917c5f7ca7b7731fee521bf8}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jihong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe40d0dcd6649c4199876865498d24e8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hongyun},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5596de7ec90914fd19b69399dd751939}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Chunhui},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca7b56a5a9c99b4205d1ffe2b1904cb3}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yanlong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07fbe881e3bab289a100b46e54ffba3f}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Aiqing},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcd45aa93b07a06122d442ee22d03cd0}
+      \strng{fullhash}{03f107ead8a9fead302cb9ccea7f0fe8}
+      \strng{bibnamehash}{03f107ead8a9fead302cb9ccea7f0fe8}
+      \strng{authorbibnamehash}{03f107ead8a9fead302cb9ccea7f0fe8}
+      \strng{authornamehash}{fcd45aa93b07a06122d442ee22d03cd0}
+      \strng{authorfullhash}{03f107ead8a9fead302cb9ccea7f0fe8}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cereal Science}
+      \field{title}{{Zn distribution and bioavailability in whole grain and grain fractions of winter wheat as affected by applications of soil N and foliar Zn combined with N or P}}
+      \field{volume}{61}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{26\bibrangedash 32}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jcs.2014.09.009
+      \endverb
+    \endentry
+    \entry{Liu2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=b9ea953e38962ea62150af4914b3a85b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=43e9a5b73b47e74d55cbc6a770b5bafa}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3e1ef00238d9ca4ccb6e2d98f8984e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiteng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a07552897e65a2ecd1d4ff152025b447}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Teng},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76dca252ce8586e05cff4dcb5be7fde0}{%
+           family={Bian},
+           familyi={B\bibinitperiod},
+           given={Pan},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5acc8d716b791ee343cc677227a89537}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuebin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=819230933b2cfaf7560f8b883ccfd389}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Xuejun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6feee2e8a1e8d10d085107cb4f5ff45}
+      \strng{fullhash}{23beb5670c7743a11700b0ea7b073792}
+      \strng{bibnamehash}{23beb5670c7743a11700b0ea7b073792}
+      \strng{authorbibnamehash}{23beb5670c7743a11700b0ea7b073792}
+      \strng{authornamehash}{a6feee2e8a1e8d10d085107cb4f5ff45}
+      \strng{authorfullhash}{23beb5670c7743a11700b0ea7b073792}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aquaculture Reports}
+      \field{title}{Effects of replacing fish meal with soybean meal on growth performance, feed utilization and physiological status of juvenile redlip mullet \textit{Liza haematocheila}}
+      \field{volume}{20}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{100756}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.aqrep.2021.100756
+      \endverb
+    \endentry
+    \entry{Manzeke2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fde929ba8031e213f9b0e1ac1ddaeecc}{%
+           family={Manzeke},
+           familyi={M\bibinitperiod},
+           given={Muneta\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bbd374d70581086d80aed63344023de}{%
+           family={Mtambanengwe},
+           familyi={M\bibinitperiod},
+           given={Florence},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a97e230ba3fa7245e81602571b9ecd40}{%
+           family={Nezomba},
+           familyi={N\bibinitperiod},
+           given={Hatirarami},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ee0d733c50d33c3e8a4ec832432e484}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80bde90fbb670b94a72b9292c16e3c45}{%
+           family={Broadley},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f925d992f586bfce89cbc3d5b9ff4f0}{%
+           family={Mapfumo},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6641f90a54dda38c1c0ae81cda6af2c}
+      \strng{fullhash}{35f91847b0bcd06cbbb216e7a19c62a8}
+      \strng{bibnamehash}{35f91847b0bcd06cbbb216e7a19c62a8}
+      \strng{authorbibnamehash}{35f91847b0bcd06cbbb216e7a19c62a8}
+      \strng{authornamehash}{f6641f90a54dda38c1c0ae81cda6af2c}
+      \strng{authorfullhash}{35f91847b0bcd06cbbb216e7a19c62a8}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Field Crops Research}
+      \field{title}{Zinc fertilization increases productivity and grain nutritional quality of cowpea (\textit{Vigna unguiculata} {[L.] Walp.}) under integrated soil fertility management}
+      \field{volume}{213}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{231\bibrangedash 244}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.fcr.2017.08.010
+      \endverb
+    \endentry
+    \entry{Manzeke2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fde929ba8031e213f9b0e1ac1ddaeecc}{%
+           family={Manzeke},
+           familyi={M\bibinitperiod},
+           given={Muneta\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bbd374d70581086d80aed63344023de}{%
+           family={Mtambanengwe},
+           familyi={M\bibinitperiod},
+           given={Florence},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ee0d733c50d33c3e8a4ec832432e484}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80bde90fbb670b94a72b9292c16e3c45}{%
+           family={Broadley},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21f40105a211517ca4f85873c946a717}{%
+           family={R.\bibnamedelimi Murray},
+           familyi={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Lark},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f925d992f586bfce89cbc3d5b9ff4f0}{%
+           family={Mapfumo},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6641f90a54dda38c1c0ae81cda6af2c}
+      \strng{fullhash}{77af7df731673e007682a3d27558ce09}
+      \strng{bibnamehash}{77af7df731673e007682a3d27558ce09}
+      \strng{authorbibnamehash}{77af7df731673e007682a3d27558ce09}
+      \strng{authornamehash}{f6641f90a54dda38c1c0ae81cda6af2c}
+      \strng{authorfullhash}{77af7df731673e007682a3d27558ce09}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy Journal}
+      \field{number}{3}
+      \field{title}{Nitrogen effect on zinc biofortification of maize and cowpea in {Zimbabwean} smallholder farms}
+      \field{volume}{112}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{2256\bibrangedash 2274}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/agj2.20175
+      \endverb
+    \endentry
+    \entry{Martins2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d94e3fd620cb663720efa8d570f51045}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Luc{ı́}ola\bibnamedelima EC},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38c7bf9fec1085279d1f89ea35176826}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Francisco\bibnamedelima A},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fe346545663390d09b774ba72adf41a}{%
+           family={Pedreira},
+           familyi={P\bibinitperiod},
+           given={Bruno\bibnamedelima C},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e90ab17a882b04803d7049d255dc54c}
+      \strng{fullhash}{7e276958ed51c608dc3dad23b6b2320f}
+      \strng{bibnamehash}{7e276958ed51c608dc3dad23b6b2320f}
+      \strng{authorbibnamehash}{7e276958ed51c608dc3dad23b6b2320f}
+      \strng{authornamehash}{7e90ab17a882b04803d7049d255dc54c}
+      \strng{authorfullhash}{7e276958ed51c608dc3dad23b6b2320f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Plant Nutrition}
+      \field{number}{5}
+      \field{title}{Photosynthesis and leaf area of \textit{Brachiaria brizantha} in response to phosphorus and zinc nutrition}
+      \field{volume}{38}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{754\bibrangedash 767}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1080/01904167.2014.939758
+      \endverb
+    \endentry
+    \entry{Moradi2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de94be363128bff00a37daeaf43a1ddd}{%
+           family={Moradi},
+           familyi={M\bibinitperiod},
+           given={Maedeh},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2cdf276667a804e0bd3baf06ca8af83}{%
+           family={Daneshzad},
+           familyi={D\bibinitperiod},
+           given={Elnaz},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31034ddf11dc9bdf15267ce2b44af826}{%
+           family={Azadbakht},
+           familyi={A\bibinitperiod},
+           given={Leila},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f2614bf67b41e3249e61363e59e1877b}
+      \strng{fullhash}{eb6f4a6ce5cecf6c27371e1c60f2db73}
+      \strng{bibnamehash}{eb6f4a6ce5cecf6c27371e1c60f2db73}
+      \strng{authorbibnamehash}{eb6f4a6ce5cecf6c27371e1c60f2db73}
+      \strng{authornamehash}{f2614bf67b41e3249e61363e59e1877b}
+      \strng{authorfullhash}{eb6f4a6ce5cecf6c27371e1c60f2db73}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Critical Reviews in Food Science and Nutrition}
+      \field{number}{20}
+      \field{title}{The effects of isolated soy protein, isolated soy isoflavones and soy protein containing isoflavones on serum lipids in postmenopausal women: {A} systematic review and meta-analysis}
+      \field{volume}{60}
+      \field{year}{2020}
+      \field{pages}{3414\bibrangedash 3428}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/10408398.2019.1689097
+      \endverb
+    \endentry
+    \entry{Nandi2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=99c8bac2b47714b76211e9f61fb1d272}{%
+           family={Nandi},
+           familyi={N\bibinitperiod},
+           given={Ramprosad},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e119c0e19e8f5515109601cd6e2a6d18}{%
+           family={Reja},
+           familyi={R\bibinitperiod},
+           given={Hasim},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6add0317eacb3736551d96ed591c51d1}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=785afa5fb25ff2ee88939c252f3c4961}{%
+           family={Ghosh\bibnamedelima Bag},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Animesh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccc75cf9159277530fa6851a28ac1cb9}{%
+           family={Chand\bibnamedelima Hazra},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Gora},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93635392dcd316cf858b8a3ab969670b}
+      \strng{fullhash}{740a8fe58d1a9a9de9cb49ffb1c0f411}
+      \strng{bibnamehash}{740a8fe58d1a9a9de9cb49ffb1c0f411}
+      \strng{authorbibnamehash}{740a8fe58d1a9a9de9cb49ffb1c0f411}
+      \strng{authornamehash}{93635392dcd316cf858b8a3ab969670b}
+      \strng{authorfullhash}{740a8fe58d1a9a9de9cb49ffb1c0f411}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current Journal of Applied Science and Technology}
+      \field{number}{1}
+      \field{title}{Effect of {Zn and B} on the Growth and Nutrient Uptake in Groundnut}
+      \field{volume}{39}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.9734/cjast/2020/v39i130475
+      \endverb
+    \endentry
+    \entry{R2022}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R: A Language and Environment for Statistical Computing}}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{Rani2022}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a4f2c49ef1adacf8052c4ddf9fe0322b}{%
+           family={Rani},
+           familyi={R\bibinitperiod},
+           given={Anita},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf7b11a2bc3780116e55954b606e571c}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vineet},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3046ae9d95e738962942d8bdbee02499}{%
+           family={Yadava},
+           familyi={Y\bibinitperiod},
+           given={D.\bibnamedelimi K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=afc2b404a27d6bab44056de297cf68bd}{%
+           family={Dikshit},
+           familyi={D\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5704bd3be758968255e9512f5f713183}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={G.\bibnamedelimi P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=673acb3f774a9dcdd6864f87738eba08}{%
+           family={Tripathi},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{437aba444b9575e636aefc458c98704c}
+      \strng{fullhash}{437aba444b9575e636aefc458c98704c}
+      \strng{bibnamehash}{437aba444b9575e636aefc458c98704c}
+      \strng{authorbibnamehash}{437aba444b9575e636aefc458c98704c}
+      \strng{authornamehash}{437aba444b9575e636aefc458c98704c}
+      \strng{authorfullhash}{437aba444b9575e636aefc458c98704c}
+      \strng{editorbibnamehash}{03eee07cb282de9daf533dbc09a17c4a}
+      \strng{editornamehash}{376f38a53b8d69bbd27e96c29a2f49f5}
+      \strng{editorfullhash}{03eee07cb282de9daf533dbc09a17c4a}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fundamentals of Field Crop Breeding}
+      \field{title}{Soybean breeding}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{907\bibrangedash 944}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1007/978-981-16-9257-4\_17
+      \endverb
+    \endentry
+    \entry{Recena2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=10f24f9d71592d549b84ddff66e32c40}{%
+           family={Recena},
+           familyi={R\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=967dc6c356580a6217375eb3d01f7612}{%
+           family={Garc{ı́}a-L{ó}pez},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Ana\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0384e837f8f01b95f0b3f2267d2eed86}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97fe3e9fe65583d70bed22d5e52c8092}
+      \strng{fullhash}{66f0a67f9dc9d375fced324549cc3cf5}
+      \strng{bibnamehash}{66f0a67f9dc9d375fced324549cc3cf5}
+      \strng{authorbibnamehash}{66f0a67f9dc9d375fced324549cc3cf5}
+      \strng{authornamehash}{97fe3e9fe65583d70bed22d5e52c8092}
+      \strng{authorfullhash}{66f0a67f9dc9d375fced324549cc3cf5}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{2}
+      \field{title}{{Zinc uptake by plants as affected by fertilization with Zn sulfate, phosphorus availability, and soil properties}}
+      \field{volume}{11}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{390}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy11020390
+      \endverb
+    \endentry
+    \entry{Rehman2020}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=a4c5c05982dafd3255f8dafa7e83fc47}{%
+           family={Rehman},
+           familyi={R\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a59f397338f6a413b40b68cd45afd0d}{%
+           family={Farooq},
+           familyi={F\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa4dd90b69cc5ff82c52ccb763c036a9}{%
+           family={Ullah},
+           familyi={U\bibinitperiod},
+           given={Aman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d0bb3502937cc104ff40d59c019755}{%
+           family={Nadeem},
+           familyi={N\bibinitperiod},
+           given={Faisal},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=878a30d4ad780e381ddc409660b221b6}{%
+           family={Im},
+           familyi={I\bibinitperiod},
+           given={Seon\bibnamedelima Young},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e8fdaa362052d55e9de94436ead9f5b}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Sang\bibnamedelima Koo},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=854254c56070a4ea641257440acfe4fc}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Dong-Jin},
+           giveni={D\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01ef230316078eddcc5d03066fee7126}
+      \strng{fullhash}{47d3602121f841a762777f27a9cab5ec}
+      \strng{bibnamehash}{47d3602121f841a762777f27a9cab5ec}
+      \strng{authorbibnamehash}{47d3602121f841a762777f27a9cab5ec}
+      \strng{authornamehash}{01ef230316078eddcc5d03066fee7126}
+      \strng{authorfullhash}{47d3602121f841a762777f27a9cab5ec}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in sustainable food systems}
+      \field{title}{Agronomic biofortification of zinc in Pakistan: Status, benefits, and constraints}
+      \field{volume}{4}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{591722}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fsufs.2020.591722
+      \endverb
+    \endentry
+    \entry{Schulte2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=99ebd3436df5031fd267c8aee08ac178}{%
+           family={Schulte},
+           familyi={S\bibinitperiod},
+           given={Carolin\bibnamedelimb C\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea14fee7bccae0d509e98cdaf5d52170}{%
+           family={Borah},
+           familyi={B\bibinitperiod},
+           given={Khushboo},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b8d40b40c8327d7ff6ce2b92d0dadaa}{%
+           family={Wheatley},
+           familyi={W\bibinitperiod},
+           given={Rachel\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb759de7ff01924cd7affd8f9dd594f7}{%
+           family={Terpolilli},
+           familyi={T\bibinitperiod},
+           given={Jason\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0e25982107538c14921dd02e72d89d8}{%
+           family={Saalbach},
+           familyi={S\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da495dea353b303e02342277bcbabdf3}{%
+           family={Crang},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=320f975bf80210f3072dd9ccdf65d7c1}{%
+           family={Groot},
+           familyi={G\bibinitperiod},
+           given={Daan\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d6c4c7a12730216830f8cd23ac22d373}{%
+           family={Ratcliffe},
+           familyi={R\bibinitperiod},
+           given={R\bibnamedelima George},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d3ce9a8833fdd188c9485a0a3ac82ff}{%
+           family={Kruger},
+           familyi={K\bibinitperiod},
+           given={Nicholas\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7d8601032b943a2c36310cb60892859}{%
+           family={Papachristodoulou},
+           familyi={P\bibinitperiod},
+           given={Antonis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f0a70a84cd9293f498f268718dd914d8}
+      \strng{fullhash}{4d2a221a9455fa6a5e07b57ec4bd9e1e}
+      \strng{bibnamehash}{4d2a221a9455fa6a5e07b57ec4bd9e1e}
+      \strng{authorbibnamehash}{4d2a221a9455fa6a5e07b57ec4bd9e1e}
+      \strng{authornamehash}{f0a70a84cd9293f498f268718dd914d8}
+      \strng{authorfullhash}{4d2a221a9455fa6a5e07b57ec4bd9e1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Advances}
+      \field{number}{31}
+      \field{title}{Metabolic control of nitrogen fixation in rhizobium-legume symbioses}
+      \field{volume}{7}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{eabh2433}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/sciadv.abh2433
+      \endverb
+    \endentry
+    \entry{Suganya2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cb3001c4c85b65bdaa11b1fc30cb3cd9}{%
+           family={Suganya},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01d1b88970bb0637870795b4a3078c1f}{%
+           family={Saravanan},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=042a0695f198427f3f4190c2b19d4e85}{%
+           family={Manivannan},
+           familyi={M\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da25c07af3d08f1c1856a01459c74b80}
+      \strng{fullhash}{37dad0cae8b5e39390c25ed6aa1090b5}
+      \strng{bibnamehash}{37dad0cae8b5e39390c25ed6aa1090b5}
+      \strng{authorbibnamehash}{37dad0cae8b5e39390c25ed6aa1090b5}
+      \strng{authornamehash}{da25c07af3d08f1c1856a01459c74b80}
+      \strng{authorfullhash}{37dad0cae8b5e39390c25ed6aa1090b5}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications in Soil Science and Plant Analysis}
+      \field{number}{15}
+      \field{title}{{Role of zinc nutrition for increasing zinc availability, uptake, yield, and quality of maize (\textit{Zea mays} L.) grains: An overview}}
+      \field{volume}{51}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{2001\bibrangedash 2021}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/00103624.2020.1820030
+      \endverb
+    \endentry
+    \entry{Tang2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=687a87ce2a1c1561e1b9f250e2aed039}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cae7223b3903b4786901b50c0c244a5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chaochun},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75594a36c9e87e8371563bdee878f58b}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a9449f93bbed1afe3290d1b415fc581}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Jianbo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41305e679eb6fc658747852984d31da2}{%
+           family={Werf},
+           familyi={W\bibinitperiod},
+           given={Wopke},
+           giveni={W\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=09215b5c8d89019c3d2fe90fc8181a74}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Fusuo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{47e3985f5e986ec3ac53e134ef5569e3}
+      \strng{fullhash}{769957ed41a4d7411ee022e88badd341}
+      \strng{bibnamehash}{769957ed41a4d7411ee022e88badd341}
+      \strng{authorbibnamehash}{769957ed41a4d7411ee022e88badd341}
+      \strng{authornamehash}{47e3985f5e986ec3ac53e134ef5569e3}
+      \strng{authorfullhash}{769957ed41a4d7411ee022e88badd341}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plant and Soil}
+      \field{title}{Intercropping legumes and cereals increases phosphorus use efficiency; a meta-analysis}
+      \field{volume}{460}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{89\bibrangedash 104}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s11104-020-04768-x
+      \endverb
+    \endentry
+    \entry{Ullah2020}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=fa4dd90b69cc5ff82c52ccb763c036a9}{%
+           family={Ullah},
+           familyi={U\bibinitperiod},
+           given={Aman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a59f397338f6a413b40b68cd45afd0d}{%
+           family={Farooq},
+           familyi={F\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12d0bb3502937cc104ff40d59c019755}{%
+           family={Nadeem},
+           familyi={N\bibinitperiod},
+           given={Faisal},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4c5c05982dafd3255f8dafa7e83fc47}{%
+           family={Rehman},
+           familyi={R\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b532c01cd99de32b897363dfc55e82f2}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Mubshar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f16a0c11d9e4205e69211487d821cd1}{%
+           family={Nawaz},
+           familyi={N\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c0c24ad5c60ed3287db43c4fcffe587}{%
+           family={Naveed},
+           familyi={N\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{416e8e20046234cf77cf570c9f189945}
+      \strng{fullhash}{cfa4e18d23ce5516aa47b31b59c12ff4}
+      \strng{bibnamehash}{cfa4e18d23ce5516aa47b31b59c12ff4}
+      \strng{authorbibnamehash}{cfa4e18d23ce5516aa47b31b59c12ff4}
+      \strng{authornamehash}{416e8e20046234cf77cf570c9f189945}
+      \strng{authorfullhash}{cfa4e18d23ce5516aa47b31b59c12ff4}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Soil Science and Plant Nutrition}
+      \field{title}{Zinc application in combination with zinc solubilizing \textit{Enterobacter} sp. {MN17} improved productivity, profitability, zinc efficiency, and quality of desi chickpea}
+      \field{volume}{20}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{2133\bibrangedash 2144}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s42729-020-00281-3
+      \endverb
+    \endentry
+    \entry{UNDP1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f97d87dcf19755cb15d3e923e110d18}{%
+           family={{UNDP}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{3}{%
+        {United Nation Development Program}%
+        {Food}%
+        {Agriculture Organization, Rome, Italy}%
+      }
+      \strng{namehash}{6f97d87dcf19755cb15d3e923e110d18}
+      \strng{fullhash}{6f97d87dcf19755cb15d3e923e110d18}
+      \strng{bibnamehash}{6f97d87dcf19755cb15d3e923e110d18}
+      \strng{authorbibnamehash}{6f97d87dcf19755cb15d3e923e110d18}
+      \strng{authornamehash}{6f97d87dcf19755cb15d3e923e110d18}
+      \strng{authorfullhash}{6f97d87dcf19755cb15d3e923e110d18}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Land Resources Appraisal of Bangladesh for Agricultural Development Report 2: Agro-ecological Region, of Bangladesh}}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{Wang2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=1,uniquepart=given,hash=abfd339fc2e73c0ce4bb588990f16516}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Longlong},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=2659eed87b6c5746fec83757c0b8624c}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85f3d3cc3b19a5479a3f8ac3a7ae8206}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Jianjun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=48f95925733b6f83d7b191c55566bd2f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Runhui},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=dd679ce27134c4a64b62de78b76408e5}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Xian},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c9e459efa2941018da5836a1e5cb67f}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Yongmei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2199a43b84a119c226fa7aef34201b1b}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yumiao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=f31e8e1396e0e9db502c0b1c3a31b7cb}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Qiuling},
+           giveni={Q\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=df50697c8f56a621160cc0fa6c6a54b7}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Guogui},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2ded7a9dc15b1abbf8fa7f38a2e4422}{%
+           family={Becana},
+           familyi={B\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3c5a977d544547a4890d67f3de760ab}
+      \strng{fullhash}{d89bb71745b89f3883bcb767f9210675}
+      \strng{bibnamehash}{d89bb71745b89f3883bcb767f9210675}
+      \strng{authorbibnamehash}{d89bb71745b89f3883bcb767f9210675}
+      \strng{authornamehash}{e3c5a977d544547a4890d67f3de760ab}
+      \strng{authorfullhash}{d89bb71745b89f3883bcb767f9210675}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Phytologist}
+      \field{number}{5}
+      \field{title}{{A transcription factor of the NAC family regulates nitrate-induced legume nodule senescence}}
+      \field{volume}{238}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{2113\bibrangedash 2129}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/nph.18896
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,104 @@
+\documentclass[12pt, oneside]{book}
+\usepackage[subpreambles=false]{standalone}
+\usepackage{import}
+\usepackage{Packages/baupreamble}
+\makeatletter\@openrightfalse\makeatother
+
+
+\addbibresource{References/shapla.bib} % change your file name here
+
+%\usepackage{makeidx}
+%\makeindex
+
+%%================================================
+%%++++++++ Thesis information here ++++++++++++++
+%%================================================
+
+\newcommand{\ThesisTitle}{Effct of foliar zinc and iron supply on the performance of arbuscular mycorrhizal fungi inoculated maize} 
+\newcommand{\ThesisAuthor}{Md. Harun Or Rashid}
+\newcommand{\StudentID}{19 Agron. JD-23M}
+\newcommand{\StudentReg}{50700 }
+\newcommand{\StudentSession}{2019-2020}
+
+\newcommand{\SubYear}{2023}
+\newcommand{\SubMonth}{July} 
+
+\newcommand{\ThesisSupervisor}{Prof. Dr. Najrul Islam}
+\newcommand{\ThesisCoSupervisor}{Prof. Dr. Md. Sultan Uddin Bhuiyan}
+\newcommand{\DeptHead}{Prof. Dr. Md. Parvez Anwar}
+
+\newcommand{\DeptName}{Department of Agronomy} % Dept or Institute Name
+\newcommand{\DegreeIn}{Soil Science}
+
+
+\providecommand\DegreeName{1} % 1 = Master of Science, 2 = Doctor of Philosopy
+\providecommand{\ThesisType}{1} % 1 = MS, 2 = PhD
+
+%%================================================
+% DO NOT CHANGE THE FOLLOWING CODES!!!!
+%%================================================
+
+\begin{document}
+\frontmatter
+	\import{FrontPages/}{cover.tex}
+	\import{FrontPages/}{titlepage.tex}
+	\import{FrontPages/}{signaturepage.tex}
+	\import{Acknowledgement/}{acknowledgement.tex}
+	\import{Abstract/}{abstract.tex}
+
+	
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{section}{Table of Contents}
+	\tableofcontents
+	
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{section}{List of Tables}
+	\listoffigures
+	
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{section}{List of Figures}
+	\listoftables
+	
+	\cleardoublepage
+	\phantomsection
+	\addcontentsline{toc}{section}{List of Plates}
+	\listofplates
+	
+	\cleardoublepage
+	\phantomsection
+	\renewcommand{\listAppendixname}{List of Appendices}
+	\addcontentsline{toc}{section}{List of Appendices}
+	\listofAppendix
+	
+	\import{Abbreviation/}{abbreviations.tex}
+
+
+\mainmatter
+{\setstretch{1.25}
+	\import{Introduction/}{introduction.tex}
+	\import{Review/}{review.tex}
+	\import{Methods/}{methods.tex}
+	\import{Results/}{results.tex}
+	\import{Summary/}{summary.tex}
+}
+
+\nocite{*}
+\printbibliography[title=References]
+\addcontentsline{toc}{chapter}{References}
+
+\clearpage
+\pagestyle{plain}
+
+
+	\import{Appendices/}{appendices.tex}
+	\addcontentsline{toc}{chapter}{Appendices}
+
+
+%\backmatter
+
+
+
+\end{document}
